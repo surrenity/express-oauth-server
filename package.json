@@ -1,7 +1,7 @@
 {
-  "name": "express-oauth-server",
-  "version": "2.0.0",
-  "description": "OAuth provider for express",
+  "name": "express-oauth-server-testfork2",
+  "version": "0.1.0",
+  "description": "Forked version of express-oauth-server",
   "main": "index.js",
   "scripts": {
     "lint": "jshint .",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/seegno/express-oauth-server"
+    "url": "git://github.com/surrenity/express-oauth-server-testfork"
   },
   "keywords": [
     "express",
@@ -17,8 +17,8 @@
     "oauth2"
   ],
   "author": {
-    "name": "Nuno Sousa",
-    "email": "nfs@seegno.com"
+    "name": "Surrenity",
+    "email": "surren@gmail.com"
   },
   "license": "SEE LICENSE IN LICENSE",
   "dependencies": {

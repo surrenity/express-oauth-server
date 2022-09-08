@@ -1,4 +1,6 @@
-# Express OAuth Server [![Build Status](https://travis-ci.org/oauthjs/express-oauth-server.png?branch=master)](https://travis-ci.org/oauthjs/express-oauth-server)
+# Express OAuth Server-testfork [![Build Status](https://travis-ci.org/oauthjs/express-oauth-server.png?branch=master)](https://travis-ci.org/oauthjs/express-oauth-server)
+
+This is a fork of https://github.com/oauthjs/express-oauth-server that uses a fork of oauth2-server, https://github.com/node-oauth/node-oauth2-server
 
 Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with [express](https://github.com/expressjs/express) in [node.js](http://nodejs.org/).
 
