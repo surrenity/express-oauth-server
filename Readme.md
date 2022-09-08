@@ -8,7 +8,7 @@ This is the express wrapper for [oauth2-server](https://github.com/oauthjs/node-
 
 ## Installation
 
-    $ npm install express-oauth-server
+    $ npm install express-oauth-server-testfork2
 
 ## Quick Start
 
